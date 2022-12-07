@@ -1,4 +1,4 @@
-<ns2:listAllFlightsResponse xmlns:ns2="http://soap.training.mulesoft.com/">
+<ns2:listAllFlightsResponse xmlns:ns2="http://soap.training.intell.com/">
     <return airlineName="United">
         <code>A1B2C3</code><departureDate>2015/10/20</departureDate>
         <destination>SFO</destination><emptySeats>40</emptySeats>
